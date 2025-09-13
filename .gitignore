@@ -20,5 +20,20 @@ coverage/
 logs/
 *.log
 
+# Prisma
+prisma/generated/
+prisma/migrations/
+
+# TypeScript declaration files
+*.d.ts
+
+# JavaScript files
+*.js
+*.mjs
+
+# Prisma
+prisma/generated/
+prisma/migrations/
+
 # OS
 Thumbs.db
